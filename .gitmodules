@@ -1,0 +1,3 @@
+[submodule "secrets-config"]
+	path = secrets-config
+	url = https://github.com/stevejenkins/nebula-sync-docker-secrets-config.git
